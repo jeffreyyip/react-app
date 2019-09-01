@@ -1,0 +1,5 @@
+1. There is a form with a text box that lets user to enter a phone number when upon clicking the “validate” button it will be validated with a 3rd party service. 
+2. There is logic to keep a history of the numbers validated until user refresh the page.
+3. There is a dropdown select that lets user pick a previously validated phone number and validate it again. (when selecting a phone number from the drop-down, the phone number gets put into the text box.)
+4. There is a history of phone validation result to be displayed in a table format. 
+5. There is message box that show validation result from the API response.

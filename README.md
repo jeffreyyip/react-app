@@ -11,11 +11,15 @@ Please refer to the use-cases.txt
 Build and Run
 ================
 For development, run command:
+
 npm install
+
 npm start
 
 For production build, run command:
+
 npm install
+
 npm run build
 
 Command information

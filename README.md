@@ -10,17 +10,27 @@ Please refer to the use-cases.txt
 
 Build and Run
 ================
-For development, run command:
+For DEVELOPMENT build, run command:
 
 npm install
 
 npm start
 
-For production build, run command:
+(The GUI will be http://localhost:3000)
+
+
+For PRODUCTION build, run command:
 
 npm install
 
 npm run build
+
+npm install -g serve
+
+serve -s build
+
+
+(The GUI will be http://localhost:5000)
 
 Command information
 ======================
